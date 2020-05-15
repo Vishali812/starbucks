@@ -1,0 +1,35 @@
+body{
+	background : url(https://wallpaperaccess.com/full/1076709.jpg);
+	background-size:cover;
+	background-position:center;
+	font-family:Lato;
+}
+#content{
+	text-align : center;
+	padding-top : 25%;
+	text-shadow : 0px 4px 3px brown;
+
+}
+html,body{
+	height : 100%;
+	width : 100%;
+}
+h1{
+	font-weight : 700;
+	font-size : 5em;
+	color: white;
+}
+h3{
+	color:white;
+}
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+li{
+	color:red;
+	font-weight: 20;
+	font-size:1em;
+	color: white;
+}
